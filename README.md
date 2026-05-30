@@ -1,5 +1,5 @@
 <h1>
-  <img src="logo.png" width="40" alt="VoidShadeStudio Logo">
+  <img src="logo.png" width="30" alt="VoidShadeStudio Logo">
   VoidShadeStudio
 </h1>
 
