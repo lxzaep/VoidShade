@@ -14,8 +14,7 @@ VoidShadeStudio provides a streamlined way to install and manage cinematic shade
 [![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?logo=discord&logoColor=white)](https://discord.gg/Ddm6gBTSaA)
 ---
 
-## Download here:
-[![Download](https://img.shields.io/badge/Download-Latest%20Release-success)](../../releases/latest)
+## Download here: [![Download](https://img.shields.io/badge/Download-Latest%20Release-success)](../../releases/latest)
 
 ---
 
