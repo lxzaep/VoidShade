@@ -30,7 +30,6 @@ VoidShadeStudio provides a streamlined way to install and manage cinematic shade
 
 - One-click installation
 - Automatic Roblox Studio detection
-- Preset management
 - Easy updates
 - Lightweight installer
 
